@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1540468916222" name="duplicate:http://iko.edu/test" uri="sqltest.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1540468916222" name="duplicate:http://iko.edu/test" uri="trippletest.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1540468916222" name="shadowed:http://iko.edu/test" uri="src/test/csv/csvtest_batch.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1540468916222" name="shadowed:http://iko.edu/test" uri="src/test/csv/result.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1540468916222" name="shadowed:http://iko.edu/test" uri="src/test/csv/result_batch.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1540468916222" name="shadowed:http://iko.edu/test" uri="src/test/csv/csvtest.owl"/>
+    </group>
+</catalog>
